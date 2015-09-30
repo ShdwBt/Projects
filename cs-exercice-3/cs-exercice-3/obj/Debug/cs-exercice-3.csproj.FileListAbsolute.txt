@@ -1,0 +1,9 @@
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs_exercice_3.Form1.resources
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs_exercice_3.Properties.Resources.resources
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs-exercice-3.csproj.GenerateResource.Cache
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\bin\Debug\cs-exercice-3.exe.config
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\bin\Debug\cs-exercice-3.exe
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\bin\Debug\cs-exercice-3.pdb
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs-exercice-3.exe
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs-exercice-3.pdb
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\cs-exercice-3\cs-exercice-3\obj\Debug\cs-exercice-3.csprojResolveAssemblyReference.cache

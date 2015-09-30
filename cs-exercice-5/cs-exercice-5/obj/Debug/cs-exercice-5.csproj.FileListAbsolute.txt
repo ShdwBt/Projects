@@ -1,0 +1,8 @@
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\bin\Debug\cs-exercice-5.exe.config
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\bin\Debug\cs-exercice-5.exe
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\bin\Debug\cs-exercice-5.pdb
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\obj\Debug\cs_exercice_5.Form1.resources
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\obj\Debug\cs_exercice_5.Properties.Resources.resources
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\obj\Debug\cs-exercice-5.csproj.GenerateResource.Cache
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\obj\Debug\cs-exercice-5.exe
+C:\Users\Bilal\documents\visual studio 2012\Projects\cs-exercice-5\cs-exercice-5\obj\Debug\cs-exercice-5.pdb

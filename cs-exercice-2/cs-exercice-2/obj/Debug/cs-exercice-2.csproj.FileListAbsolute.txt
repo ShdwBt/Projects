@@ -1,0 +1,6 @@
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\bin\Debug\cs-exercice-2.exe.config
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\obj\Debug\cs-exercice-2.csprojResolveAssemblyReference.cache
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\bin\Debug\cs-exercice-2.exe
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\bin\Debug\cs-exercice-2.pdb
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\obj\Debug\cs-exercice-2.exe
+c:\users\bilal\documents\visual studio 2012\Projects\cs-exercice-2\cs-exercice-2\obj\Debug\cs-exercice-2.pdb

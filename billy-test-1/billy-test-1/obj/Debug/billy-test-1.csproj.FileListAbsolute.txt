@@ -1,0 +1,6 @@
+c:\users\bilal\documents\visual studio 2012\Projects\billy-test-1\billy-test-1\bin\Debug\billy-test-1.exe.config
+c:\users\bilal\documents\visual studio 2012\Projects\billy-test-1\billy-test-1\obj\Debug\billy-test-1.csprojResolveAssemblyReference.cache
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\billy-test-1\billy-test-1\bin\Debug\billy-test-1.exe
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\billy-test-1\billy-test-1\bin\Debug\billy-test-1.pdb
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\billy-test-1\billy-test-1\obj\Debug\billy-test-1.exe
+C:\Users\Bilal\Documents\Visual Studio 2012\Projects\billy-test-1\billy-test-1\obj\Debug\billy-test-1.pdb
