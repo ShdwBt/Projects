@@ -23,7 +23,15 @@ namespace cs_exercice_6
     }
     class Employe
     {
+        public Employe()
+        {
+            Tools.screen("Création employé");
+        }
 
+        ~Employe()
+        {
+            Tools.screen("Destructeur employé");
+        }
     }
     class Program
     {
@@ -35,7 +43,7 @@ namespace cs_exercice_6
             Manager man1 = new Manager();
             Tools.screenBreak();
             Ouvrier ouv1 = new Ouvrier();*/
-            Manager man1 = new Manager();
+            Employe emp1 = new Employe();
             Tools.screenBreak();
             Tools.screenStop("Done");
         }
