@@ -43,6 +43,7 @@ namespace cs_exercice_6
             Manager man1 = new Manager();
             Tools.screenBreak();
             Ouvrier ouv1 = new Ouvrier();*/
+            //17:39
             Employe emp1 = new Employe();
             Tools.screenBreak();
             Tools.screenStop("Done");
